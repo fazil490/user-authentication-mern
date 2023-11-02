@@ -72,7 +72,7 @@ const Signup = () => {
         <button>Sign Up</button>
       </form>
       <p>
-        Already an user? <Link to="/login">Login</Link>
+        Already an user? <Link to="/">Login</Link>
       </p>
     </div>
   );
